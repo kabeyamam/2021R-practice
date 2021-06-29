@@ -1,4 +1,5 @@
 #Load packages
+#データロガーの読み込みと作図
 #CTRL + D 1行削除
 #CTRL + ALT + ↑ or ↓　カーソル複製　
 library(tidyverse)
